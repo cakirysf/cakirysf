@@ -1,7 +1,7 @@
 # Merhaba Ben Çakır Yusuf
-Yazılım ve kodlama ile uğraşıyorum. Bana bu konularda sorular sorabilirsiniz. [Html5, Css3, Javascript, React, React Native...]<br>
+Yazılım ve kodlama ile uğraşıyorum. Bana [Html5, Css3, Javascript, React, React Native...] konularında sorular sorabilirsiniz.<br>
 Kaliteli projelerde çalışmak için sürekli kendimi geliştiriyorum.<br>
-Uzun yıllar masaüstü programlar geliştirdim, ayrıca Wordpress, Joomla vb. plaformlarda yüzlerce websitesi yayınladım.<br>
+Uzun yıllar masaüstü programlar geliştirdim, ayrıca Wordpress, Joomla vb. plaformları kullanarak yüzlerce websitesi yayınladım.<br>
 Aklınıza takılan bir sorun olursa bana bu hesaplardan ulaşabilirsiniz. <a href="mailto:cytrcom@gmail.com" target="blank"><img align="center" src="https://lh3.googleusercontent.com/ogw/AKPQZvy47PlF-7OuARrWiHw7XJ-JNRFNNDIJazCccbEeGw=s32-c-mo" alt="mail" height="20" width="20" /></a><span> E-posta  </span> <a href="https://linkedin.com/in/swyusufcakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="20" /></a><span> Linkedin</span> <br>
 <hr><hr>
 <h3 align="center">A frontend developer. I'm not looking for a job, I'm looking for quality projects</h3>
