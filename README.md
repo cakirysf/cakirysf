@@ -1,4 +1,4 @@
-# Merhaba Ben Çakır Yusuf
+# Merhaba
 Yazılım ve kodlama ile uğraşıyorum. Bana [Html5, Css3, Javascript, React, React Native...] konularında sorular sorabilirsiniz.<br>
 Kaliteli projelerde çalışmak için sürekli kendimi geliştiriyorum.<br>
 Uzun yıllar masaüstü programlar geliştirdim, ayrıca Wordpress, Joomla vb. plaformları kullanarak yüzlerce websitesi yayınladım.<br>
