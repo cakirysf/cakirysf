@@ -10,7 +10,7 @@ Aklınıza takılan bir sorunuz olursa bana bu hesaplardan ulaşabilirsiniz. <a 
 
 - I’m currently learning **#backend development**
 
-- How to reach me <a href="mailto:cytrcom@gmail.com" target="blank"><img align="center" src="https://lh3.googleusercontent.com/ogw/AKPQZvy47PlF-7OuARrWiHw7XJ-JNRFNNDIJazCccbEeGw=s32-c-mo" alt="mail" height="30" width="30" /></a> & <a href="https://linkedin.com/in/swyusufcakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
+- How to reach me <a href="mailto:yussufcakir@gmail.com" target="blank"><img align="center" src="https://lh3.googleusercontent.com/ogw/AKPQZvy47PlF-7OuARrWiHw7XJ-JNRFNNDIJazCccbEeGw=s32-c-mo" alt="mail" height="30" width="30" /></a> & <a href="https://linkedin.com/in/swyusufcakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
 
 
 
