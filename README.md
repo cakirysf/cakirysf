@@ -50,7 +50,7 @@ Aklınıza takılan bir sorunuz olursa bana bu hesaplardan ulaşabilirsiniz. <a 
 
 </hr>
 
-I am front-end developer
+I am front-end developer.
 Throughout my career, I have had the opportunity to work on projects that embrace modern web technologies and prioritize user experience. Leveraging HTML, CSS, and JavaScript, I have successfully built modular and scalable components using the powerful React.js library.
 
 Moreover, I believe that the frontend development process extends beyond coding and encompasses collaboration, design thinking, and best practices. I am a team player with strong communication skills and a problem-solving mindset.
